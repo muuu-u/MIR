@@ -1,7 +1,6 @@
-- Hi, I’m N Miya Sylvester
-- I’m interested in Applied DL for MIR
-- For this class project, I'll be aiming to figure out how to begin to track music beats and rhythms of songs.  
-- I'm not concerned about classification of music genre.
+Hi, I’m N Miya Sylvester
+
+I’m interested in Applied DL for MIR:  For this class project, I'll be aiming to figure out how to begin to track music beats and rhythms of songs.  I'm not concerned about classification of music genre.
 
 - more to share soon... 
 <!---
